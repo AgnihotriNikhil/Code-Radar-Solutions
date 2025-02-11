@@ -6,7 +6,7 @@ void decimalToBinary(int n){
         print("0");
         return;
     }
-    while(n>0){
+    while(n > 0){
         binary[i] = n & 1;
         n = n >> 1;
         i++;
