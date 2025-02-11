@@ -10,6 +10,7 @@ void decimalToBinary(int n){
         binary[i] = n & 1;
         n = n >> 1;
         i++;
+    }    
     for(int j = i - 1; j >= 0; j--){
         printf("%d",binary[j]);
     }
