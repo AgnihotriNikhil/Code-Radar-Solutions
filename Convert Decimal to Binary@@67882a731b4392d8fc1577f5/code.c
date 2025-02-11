@@ -3,7 +3,7 @@ void decimalToBinary(int n){
     int binary[32];
     int i = 0;
     if(n == 0){
-        print("0");
+        printf("0");
         return;
     }
     while(n > 0){
