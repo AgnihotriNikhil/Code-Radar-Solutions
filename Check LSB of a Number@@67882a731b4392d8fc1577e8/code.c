@@ -7,7 +7,7 @@ int main(){
         return 0;
     }
     else;
-    printf("Not set\n");
+    printf("Not Set\n");
     return 0;
 
 }
