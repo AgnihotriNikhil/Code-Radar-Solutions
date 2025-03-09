@@ -11,6 +11,6 @@ int main(){
         return 0;
     }
     else;
-    printf("Invalid\n");
+    printf("%d\n",num1||num2);
     return 0;
 }
