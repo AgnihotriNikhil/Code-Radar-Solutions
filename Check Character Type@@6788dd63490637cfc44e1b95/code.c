@@ -3,7 +3,7 @@
 void checkCharacter(char ch){
     char lower = tolower(ch);
     if((lower >="a" && lower <= "z")){
-        if(lower=="a"||lower="e"||lower="i"||lower="o"||lower="u"){
+        if(lower=="a"||lower=="e"||lower=="i"||lower=="o"||lower=="u"){
             printf("Vowel\n");
         }else{
             printf("Consonant\n");
