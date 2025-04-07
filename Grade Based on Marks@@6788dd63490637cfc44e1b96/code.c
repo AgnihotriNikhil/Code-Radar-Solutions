@@ -22,7 +22,7 @@ int main(){
         printf("F");
         return 0;
     }
-    else:
+    else;
     printf("Invalid");
     return 0;
     
