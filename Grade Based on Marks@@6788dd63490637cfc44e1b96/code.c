@@ -23,7 +23,8 @@ int main(){
         return 0;
     }
     else:
-    printf("Invalid")
+    printf("Invalid");
+    return 0;
     
 
 }
