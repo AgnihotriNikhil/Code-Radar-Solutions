@@ -3,7 +3,7 @@ int main(){
     int num;
     scanf("%d",&num);
     if(num>=90 && num<=100){
-        printf("A")
+        printf("A");
         return 0;
     }
     if(num<=89 && num >= 80){
